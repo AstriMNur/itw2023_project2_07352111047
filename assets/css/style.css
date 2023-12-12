@@ -1,0 +1,126 @@
+body{
+    background-color: #0B0F2B;
+    
+    /* background-color: #1e293b; */
+}
+/* body { */
+    /* background-image: url('path/to/your-pattern-image.jpg'); */
+    /* background-repeat: repeat; atau repeat-x, repeat-y, no-repeat */
+    /* Tambahan: atur propertis lain sesuai kebutuhan */
+  /* } */
+.bg-img{
+    background-image: url('/assets/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* sumber gambar */
+    /* https://www.freepik.com/free-vector/minimal-line-style-dark-blue-memphis-background_29887104.htm#query=website%20background%20pattern&position=17&from_view=search&track=ais&uuid=6daa5eb5-407b-491b-a054-03806abfef91#page=1&query=w&from_query=undefined&position=0&from_view=search&track=ais&uuid=6daa5eb5-407b-491b-a054-03806abfef91 */
+}
+.bg-pattern{
+    background-image: url('/assets/img/moroccan-flower\ \(1\).png');
+    background-repeat: no-repeat;
+    background-color: #7f7f7f73;
+    background-position:bottom right;
+     background-size: 250px;
+}
+/* .bg-pattern-1{
+    background-image: url('/assets/img/pattern-42675_1280.png');
+    background-repeat:no-repeat;
+    background-color: #1a1e3b;
+    background-size: 350px;
+    background-position: left top;
+} */
+.bg-pattern-2{
+    background-image: url('/assets/img/pattern-42675_1280.png');
+    background-repeat:no-repeat;
+    background-color: #1a1e3b73;
+    /* background-size: 200px; */
+}
+/* *{
+    background-color: #1E1E1E;
+} */
+.bg-100 {
+    background-color: #0B0F2B;
+    /* background-color: #1e293b; */
+}
+.bg-200{
+    /* background-color: #334155; */
+    background-color: #1a1e3b;
+}
+.bg-300{
+    /* background-color: #475569; */
+    background-color: #333554;
+}
+.text-200{
+    background-color: #94a3b8;
+}
+.text-100{
+/* background-color: #cbd5e1; */
+color: #cbd5e1;
+}
+.accent-200{
+background-color: #005e74;
+}
+.accent-100{
+    background-color: #d946ef;
+}
+.accent-300{
+    background-color: #00BCD4;
+}
+.primary-300{
+background-color: #916400;
+/* background-color: #D3E6FE; */
+}
+.primary-200{
+    /* background-color: #4d648d; */
+    background-color: #dda400;
+}
+.primary-100{
+    background-color: #1F3A5F;
+    /* background-color: #2563eb; */
+}
+.bg-graient{
+    background: linear-gradient(to right, #1F3A5F, #4d648d);
+}
+
+/* 
+        --primary-100:#2563eb;
+    --primary-200:#598EF3;
+    --primary-300:#D3E6FE;
+    --accent-100:#d946ef;
+    --accent-200:#fae8ff;
+    --text-100:#cbd5e1;
+    --text-200:#94a3b8;
+    --bg-100:#1e293b;
+    --bg-200:#334155;
+    --bg-300:#475569;
+      
+      
+*/
+/* 
+          --primary-100:#FFC107;
+    --primary-200:#dda400;
+    --primary-300:#916400;
+    --accent-100:#00BCD4;
+    --accent-200:#005e74;
+    --text-100:#FFFFFF;
+    --text-200:#9c9c9c;
+    --bg-100:#0B0F2B;
+    --bg-200:#1a1e3b;
+    --bg-300:#333554;
+      
+      
+      
+*/
+/* 
+    --primary-100:#1F3A5F;
+    --primary-200:#4d648d;
+    --primary-300:#acc2ef;
+    --accent-100:#3D5A80;
+    --accent-200:#cee8ff;
+    --text-100:#FFFFFF;
+    --text-200:#e0e0e0;
+    --bg-100:#0F1C2E;
+    --bg-200:#1f2b3e;
+    --bg-300:#374357;
+      
+*/
